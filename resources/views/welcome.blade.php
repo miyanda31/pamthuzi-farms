@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="hero__text">
-                        <h2 style="color: #88C417">Pamthuzi Cattle Ranch </h2>
+                        <h2 style="color: #88C417">Pamthuzi Livestock Farms and Research Center  </h2>
                     </div>
                 </div>
 
@@ -84,6 +84,19 @@
         </div>
     </div>
 
+    <!-- Choose Section End -->
+
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <h2>Our Services</h2>
+                </div>
+            </div>
+        </div>
+
+        <x-services/>
+    </div>
 
     <!-- Choose Section Begin -->
     <section class="choose spad">
@@ -121,16 +134,7 @@
             </div>
         </div>
     </section>
-    <!-- Choose Section End -->
 
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="section-title">
-                    <h2>Our Services</h2>
-                </div>
-            </div>
-        </div>
-        <x-services/>
-
+    <x-frequently/>
 
 @endsection

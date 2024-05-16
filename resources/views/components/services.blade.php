@@ -1,6 +1,4 @@
-<!-- Services Details Section Begin -->
-<section class="services-details spad">
-    <div class="container">
+
         <div class="row">
             <div class="col-lg-12">
                 <div class="services__details__product">
@@ -46,7 +44,3 @@
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!-- Services Details End -->
-<x-frequently/>

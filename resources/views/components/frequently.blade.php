@@ -1,6 +1,12 @@
 
 <div class="container">
-
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title">
+                    <h2>Frequently Asked Questions</h2>
+                </div>
+            </div>
+        </div>
     <div class="services__details__faq">
         <div class="accordion" id="accordionExample">
             <div class="card">

@@ -20,6 +20,12 @@
         </div>
     </div>
     <!-- Breadcrumb Section End -->
+    <!-- Services Details Section Begin -->
+    <section class="services-details spad">
+        <div class="container">
+            <x-services/>
+        </div>
+    </section>
 
-    <x-services/>
+    <x-frequently/>
 @endsection
