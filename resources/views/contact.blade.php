@@ -25,16 +25,9 @@
                         <div class="contact__form__text">
                             <div class="contact__form__title">
                                 <h2>Get In Touch</h2>
-                                <p>Please contact us or send us an email or go to our forum.</p>
+                                <p>Please contact us or email us or go to our forum.</p>
                             </div>
-                            <form action="#">
-                                <div class="input-list">
-                                    <input type="text" placeholder="Your name">
-                                    <input type="text" placeholder="Your email">
-                                </div>
-                                <textarea placeholder="Your Message"></textarea>
-                                <button type="submit" class="site-btn">Send Message</button>
-                            </form>
+                            @livewire('contact-form')
                         </div>
                     </div>
                 </div>

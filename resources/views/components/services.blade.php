@@ -49,11 +49,11 @@
                                 </h4>
                                 <ul style="color: #5c5c5c" class="list-unstyled text-justify">
                                     <li class="mb-2 mt-2">
-                                        <strong>Full-Service Proposal Creation:</strong>Let us handle the intricacies of proposal writing for you.
+                                        <strong>Full-Service Proposal Creation: </strong>Let us handle the intricacies of proposal writing for you.
 
                                     </li>
                                     <li>
-                                        <strong>Guided Proposal Crafting:</strong>Providing step-by-step assistance to perfect your submissions.
+                                        <strong>Guided Proposal Crafting:</strong> Providing step-by-step assistance to perfect your submissions.
                                     </li>
                                 </ul>
                             </div>
