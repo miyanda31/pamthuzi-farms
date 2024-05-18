@@ -135,6 +135,4 @@
         </div>
     </section>
 
-    <x-frequently/>
-
 @endsection

@@ -67,38 +67,55 @@
                         <div class="team__text">
                             <div class="team__title">
                                 <h4>Andrew Makalani</h4>
-                                <span>Livestock Production Specialist</span>
+                                <span>Founder and Team Leader</span>
                             </div>
-                            <p>A strategic, CEO/Director with fourteen years of progressive responsibility in a variety of business environments.
-                                Proven leadership and track record in managed care, sales, a variety of clinical settings and small business ownership.
-                                A motivated team player with immense knowledge of multi-tasking and meeting strict deadlines.
-                            </p>
+
                         </div>
+                    </div>
+                    <p class="text-justify">
+                        The team leader is a qualified and seasoned professional in Animal Science.
+                        With expertise in animal production economics, nutrition, forage production science, and
+                        business development, he brings 10 years of active contribution to Malawi’s Livestock sector.
+                        The team leader's experience spans key positions, from the Ministry of Agriculture to academia,
+                        and hands-on involvement in international livestock production technologies.
+                        The team leader is poised to deliver with unwavering professionalism and dedication.
+                    </p>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team__item set-bg" data-setbg="/img/IMG_2227.JPG">
+
+                        <div class="team__text">
+                            <div class="team__title">
+                                <h4>Jackson Jackson
+                                </h4>
+                                <span>Veterinarian</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="section-text mt-2 text-justify">
+                        <p>
+                            Seasoned and qualified veterinarian with 20 years of active practice and experience.
+                            Well versed in important local and cross-boundary livestock diseases. He brings expertise in animal care,
+                            diagnostics, and treatment. From routine check-ups to complex surgeries, he ensures the well-being of our furry companions.
+                            Passionate about animals and an advocate of animal welfare.
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="team__item set-bg" data-setbg="/img/IMG-20231125-WA0006.jpg">
+                    <div class="team__item set-bg" data-setbg="/img/IMG_2227.JPG">
+
                         <div class="team__text">
                             <div class="team__title">
-                                <h4>Stain Kabele</h4>
-                                <span>Team Leader</span>
+                                <h4>Mary Mary
+                                </h4>
+                                <span>Animal Husbandry Expert</span>
                             </div>
-                            <p>In charge of the credit granting process and their duties include:
-                                assessing the creditworthiness of customers, minimizing debt losses, increasing sales, investigating credit applications,
-                                managing corporate financing programs, and maintaining the corporate credit policy.</p>
+
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="team__item set-bg" data-setbg="/img/IMG-20231125-WA0007.jpg">
-                        <div class="team__text">
-                            <div class="team__title">
-                                <h4>Antony Mkhwimba</h4>
-                                <span>Animal Health Specialist</span>
-                            </div>
-                            <p>Highly organized and efficient secretary with over eight years of experience providing administrative support to executives in a fast-paced office environment</p>
-                        </div>
-                    </div>
+                    <p class=" text-justify">
+                        With a wealth of experience, our Animal Husbandry expert combines passion for animals with scientific knowledge. From managing livestock health to optimizing breeding programs, you are fully covered and in good hands. The keen eye for detail ensures healthy herds, efficient feed management, and sustainable practices. Whether it’s dairy cows, poultry, or exotic species, the guidance will always be invaluable.
+                    </p>
                 </div>
             </div>
         </div>

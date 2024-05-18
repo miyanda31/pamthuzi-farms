@@ -5,11 +5,12 @@ namespace App\Livewire;
 use App\Mail\ContactUs;
 use Illuminate\Support\Facades\Mail;
 use Livewire\Attributes\Rule;
+use Livewire\Attributes\Validate;
 use Livewire\Component;
 
 class ContactForm extends Component
 {
-    #[Rule('required|min:3|string',message: ['required'=>'Field is required'])]
+    #[Validate('required|min:3|string',message: ['required'=>'Field is required'])]
     public string $name,$message,$title;
     #[Rule('required|email|string',message: ['required'=>'Field is required','email'=>'Invalid email address entered'])]
     public string $email;
@@ -20,6 +21,7 @@ class ContactForm extends Component
 
     public function sendEmail(): void
     {
+
       $this->validate();
 
         Mail::send(new ContactUs($this->email,$this->name,$this->message,$this->title));
@@ -28,6 +30,16 @@ class ContactForm extends Component
 
         $this->reset();
     }
+
+    public function clearErrors()
+
+    {
+
+        $this->resetValidation();
+
+    }
+
+
 
 
 }

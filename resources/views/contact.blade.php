@@ -32,8 +32,6 @@
                     </div>
                 </div>
             </div>
-            <h2 class="text-center">Before you contact us</h2>
-            <x-frequently/>
         </div>
     </section>
     <!-- Contact End -->
