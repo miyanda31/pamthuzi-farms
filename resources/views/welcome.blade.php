@@ -36,7 +36,7 @@
                                 <div class="home__about__item">
                                     <h4>Our Vision</h4>
                                     <p class="text-justify">To be a leading livestock producer and a trusted
-                                        livestock research and consulting firm to help contribute to national food security job creation. </p>
+                                        livestock research and consulting firm to help contribute to national food security and job creation. </p>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
