@@ -20,7 +20,7 @@
                                 <br> <br>
                                 We are an established business consisting of qualified professionals and registered under Pamthuzi Holdings Limited.
                                 We pride ourselves in Livestock research and
-                                consultancy and specialize in Livestock production, distribution, and marketing of Livestock and Livestock products..</p>
+                                consultancy and specialize in Livestock production, distribution, and marketing of Livestock and Livestock products.</p>
                             <a href="<?php echo route('contact')?>" class="primary-btn">Contact Us</a>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
 
                         <div class="team__text">
                             <div class="team__title">
-                                <h4>Jackson Jackson
+                                <h4>Lemani Elliot Levi
                                 </h4>
                                 <span>Veterinarian</span>
                             </div>
@@ -106,8 +106,7 @@
 
                         <div class="team__text">
                             <div class="team__title">
-                                <h4>Mary Mary
-                                </h4>
+                                <h4>Austin Mlowoka</h4>
                                 <span>Animal Husbandry Expert</span>
                             </div>
 

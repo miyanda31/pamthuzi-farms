@@ -67,7 +67,7 @@
             <div class="row">
                 <div class="col-lg-9">
                     <ul class="header__top__widget">
-                        <li><i class="fa fa-whatsapp"></i><a class="text-white" href="https://wa.me/265882063594"> {{env('APP_PHONE')}}</a></li>
+                        <li><i class="fa fa-whatsapp"></i><a class="text-white" href="https://wa.me/265881259210"> {{env('APP_PHONE')}}</a></li>
                         <li><i class="fa fa-envelope"></i> {{env('APP_EMAIL')}} </li>
                         <li><a  class="text-white" href="https://www.facebook.com/SALIRECOF"><i class="fa fa-facebook"></i> @pamthuzifarms</a></li>
                     </ul>
@@ -121,7 +121,7 @@
                         <ul>
                             <li><a href="javascript:void;"><i class="fa fa-map-marker"></i> {{env('APP_ADDRESS')}}</a></li>
                             <li><a href="javascript:void;"><i class="fa fa-phone"></i> {{env('APP_PHONE')}}</a></li>
-                            <li><a href="https://wa.me/265882063594"><i class="fa fa-whatsapp"></i> {{env('APP_PHONE')}}</a></li>
+                            <li><a href="https://wa.me/265881259210"><i class="fa fa-whatsapp"></i> {{env('APP_PHONE')}}</a></li>
                             <li><a href="https://www.facebook.com/SALIRECOF"><i class="fa fa-facebook"></i> @pamthuzifarms</a></li>
                             <li><a href="javascript:void;"><i class="fa fa-envelope"></i> {{env('APP_EMAIL')}}</a> </li>
                         </ul>
