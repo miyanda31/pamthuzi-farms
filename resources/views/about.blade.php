@@ -62,7 +62,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="team__item set-bg" data-setbg="/img/IMG_2227.JPG">
+                    <div class="team__item set-bg" data-setbg="/img/andrew.jpg">
 
                         <div class="team__text">
                             <div class="team__title">
@@ -75,14 +75,14 @@
                     <p class="text-justify">
                         The team leader is a qualified and seasoned professional in Animal Science.
                         With expertise in animal production economics, nutrition, forage production science, and
-                        business development, he brings 10 years of active contribution to Malawi’s Livestock sector.
+                        business development, he brings ten years of active contribution to Malawi’s Livestock sector.
                         The team leader's experience spans key positions, from the Ministry of Agriculture to academia,
                         and hands-on involvement in international livestock production technologies.
                         The team leader is poised to deliver with unwavering professionalism and dedication.
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="team__item set-bg" data-setbg="/img/IMG_2227.JPG">
+                    <div class="team__item set-bg" data-setbg="/img/eliot.jpg">
 
                         <div class="team__text">
                             <div class="team__title">
@@ -94,7 +94,7 @@
                     </div>
                     <div class="section-text mt-2 text-justify">
                         <p>
-                            Seasoned and qualified veterinarian with 20 years of active practice and experience.
+                            Seasoned and qualified veterinarian with twenty years of active practice and experience.
                             Well versed in important local and cross-boundary livestock diseases. He brings expertise in animal care,
                             diagnostics, and treatment. From routine check-ups to complex surgeries, he ensures the well-being of our furry companions.
                             Passionate about animals and an advocate of animal welfare.
@@ -102,7 +102,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <div class="team__item set-bg" data-setbg="/img/IMG_2227.JPG">
+                    <div class="team__item set-bg" data-setbg="/img/austin.jpg">
 
                         <div class="team__text">
                             <div class="team__title">
@@ -113,8 +113,7 @@
                         </div>
                     </div>
                     <p class=" text-justify">
-                        With a wealth of experience, our Animal Husbandry expert combines passion for animals with scientific knowledge. From managing livestock health to optimizing breeding programs, you are fully covered and in good hands. The keen eye for detail ensures healthy herds, efficient feed management, and sustainable practices. Whether it’s dairy cows, poultry, or exotic species, the guidance will always be invaluable.
-                    </p>
+                        With a wealth of experience for over twenty-nine years in the field, our Animal Husbandry expert combines passion for animals with scientific knowledge. From managing livestock health to optimizing breeding programs, you are fully covered and in good hands. The keen eye for detail ensures healthy herds, efficient feed management, and sustainable practices. Whether it’s dairy cows, poultry, or exotic species, the guidance will always be invaluable.                    </p>
                 </div>
             </div>
         </div>
