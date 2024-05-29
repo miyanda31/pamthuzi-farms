@@ -63,15 +63,9 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="team__item set-bg" data-setbg="/img/andrew.jpg">
-
-                        <div class="team__text">
-                            <div class="team__title">
-                                <h4>Andrew Makalani</h4>
-                                <span>Founder and Team Leader</span>
-                            </div>
-
-                        </div>
                     </div>
+                    <h4>Andrew Makalani</h4>
+                    <p>Founder and Team Leader</p>
                     <p class="text-justify">
                         The team leader is a qualified and seasoned professional in Animal Science.
                         With expertise in animal production economics, nutrition, forage production science, and
@@ -83,15 +77,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="team__item set-bg" data-setbg="/img/eliot.jpg">
-
-                        <div class="team__text">
-                            <div class="team__title">
-                                <h4>Lemani Elliot Levi
-                                </h4>
-                                <span>Veterinarian</span>
-                            </div>
-                        </div>
                     </div>
+                    <h4>Lemani Elliot Levi
+                    </h4>
+                    <p>Veterinarian</p>
                     <div class="section-text mt-2 text-justify">
                         <p>
                             Seasoned and qualified veterinarian with twenty years of active practice and experience.
@@ -103,15 +92,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="team__item set-bg" data-setbg="/img/austin.jpg">
-
-                        <div class="team__text">
-                            <div class="team__title">
-                                <h4>Austin Mlowoka</h4>
-                                <span>Animal Husbandry Expert</span>
-                            </div>
-
-                        </div>
                     </div>
+                    <h4>Austin Mlowoka</h4>
+                    <p>Animal Husbandry Expert</p>
                     <p class=" text-justify">
                         With a wealth of experience for over twenty-nine years in the field, our Animal Husbandry expert combines passion for animals with scientific knowledge. From managing livestock health to optimizing breeding programs, you are fully covered and in good hands. The keen eye for detail ensures healthy herds, efficient feed management, and sustainable practices. Whether it’s dairy cows, poultry, or exotic species, the guidance will always be invaluable.                    </p>
                 </div>
