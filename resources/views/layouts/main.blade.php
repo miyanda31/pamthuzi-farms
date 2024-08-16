@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Pamthuzi Livestock and Research Center - {{$title??'Home'}}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Research, Consultancy, Farming, Implementation, Evaluation" name="keywords">
+    <meta content="Pamthuzi Livestock and Research Center, Research, Consultancy, Farming, Implementation, Evaluation" name="keywords">
     <meta content="We are an established business consisting of qualified professionals and registered under Pamthuzi Holdings Limited.
     We pride ourselves in Livestock research and consultancy and specialize in Livestock production, distribution,
     and marketing of Livestock and Livestock products." name="description">
