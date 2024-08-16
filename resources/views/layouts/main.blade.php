@@ -2,15 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Pamthuzi - {{$title??'Home'}}</title>
+    <title>Pamthuzi Livestock and Research Center - {{$title??'Home'}}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Research, Consultancy, Farming, Implementation, Evaluation" name="keywords">
-    <meta content="Farming with foresight, leading with research" name="description">
+    <meta content="We are an established business consisting of qualified professionals and registered under Pamthuzi Holdings Limited.
+    We pride ourselves in Livestock research and consultancy and specialize in Livestock production, distribution,
+    and marketing of Livestock and Livestock products." name="description">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
-    <link rel="manifest" href="/img/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 
 
     <!-- Google Font -->
