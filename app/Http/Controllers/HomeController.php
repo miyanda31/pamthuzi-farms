@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Banner;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -11,7 +12,8 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('welcome');
+        $banners = Banner::whereSite('Pamthuzi Holdings')->take(5)->latest()->get();
+        return view('welcome',compact('banners'));
     }
 
 
@@ -29,13 +31,5 @@ class HomeController extends Controller
         return view('services');
     }
 
-
-    /**
-     * Store a newly created resource in storage.
-     */
-    public function store(Request $request)
-    {
-        //
-    }
 
 }

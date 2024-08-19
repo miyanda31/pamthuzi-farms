@@ -29,6 +29,8 @@
     <link rel="stylesheet" href="/css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css">
 
+    @yield('header')
+
     <!-- Template Stylesheet -->
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
 </head>
@@ -173,19 +175,6 @@
 </footer>
 <!-- Footer Section End -->
 
-<!-- Search Begin -->
-<div class="search-model">
-    <div class="h-100 d-flex align-items-center justify-content-center">
-        <div class="search-close-switch">+</div>
-        <form class="search-model-form">
-            <input type="text" id="search-input" placeholder="Search here.....">
-        </form>
-    </div>
-</div>
-<!-- Search End -->
-
-
-
 <!-- Js Plugins -->
 <script src="/js/jquery-3.3.1.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
@@ -195,7 +184,11 @@
 <script src="/js/jquery-ui.min.js"></script>
 <script src="/js/jquery.slicknav.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
+<script src="/js/slick.js"></script>
+{{--<script src="/js/owl.js"></script>--}}
+{{--<script src="/js/accordions.js"></script>--}}
 <script src="/js/main.js"></script>
+@yield('footer')
 
 
 </body>

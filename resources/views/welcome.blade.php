@@ -1,22 +1,31 @@
 @extends('layouts.main')
-
+@section('header')
+    <link rel="stylesheet" href="/css/banner.css" type="text/css">
+@endsection
 @section('content')
-    <!-- Hero Section Begin -->
-    <section class="hero set-bg" data-setbg="/img/priscilla-du-preez-tGtWKDdicn4-unsplash.jpg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="hero__text">
-                        <h2 style="color: #88C417">Pamthuzi Livestock Farms and Research Center  </h2>
+
+    <!-- Banner Starts Here -->
+    <div class="main-banner header-text" id="top">
+        <div class="Modern-Slider">
+
+            @foreach($banners as $key=>$banner)
+                <div class="item item-{{$key+1}}">
+                    <div class="img-fill" style="background-image: url('http://127.0.0.1:8000/img/{{$banner->photo}}'); opacity: .8">
+                        <div class="text-content">
+                            <h6 >{{$banner->subtitle}}</h6>
+                            <h4>{{$banner->title}}</h4>
+                            <p>{{$banner->description}}</p>
+                            <a href="<?php echo route('contact') ?>" class="filled-button-two">read more</a>
+                            <a href="<?php echo route('contact') ?>" class="filled-button">contact</a>
+                        </div>
                     </div>
                 </div>
+            @endforeach
 
-                <div class="col-lg-5 offset-lg-2">
 
-                </div>
-            </div>
         </div>
-    </section>
+    </div>
+    <!-- The Banner Ends Here -->
 
 
 

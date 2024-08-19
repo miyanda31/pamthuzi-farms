@@ -3046,7 +3046,7 @@ ol {
     }
     .blog__details__comment__form form .input-list input {
         width: 100%;
-        float: n;
+        float: none;
         margin-right: 0;
     }
     .contact__form__text form .input-list {
@@ -3248,71 +3248,18 @@ ol {
     }
 }
 
-/* Small Device = 320px */
-
-@media only screen and (max-width: 479px) {
-    .hero__form form .input-list {
-        margin-right: 0;
-    }
-    .hero__form form .input-list .input-list-item {
-        width: 100%;
-        float: none;
-        margin-right: 0;
-    }
-    .hero__form .site-btn {
-        padding: 14px 20px 12px;
-    }
-    .loan__services__item {
-        width: 100%;
-    }
-    .footer__copyright__links li {
-        margin-right: 12px;
-    }
-    .footer__copyright__links li:after {
-        right: -10px;
-    }
-    .services__details__calculator__item .price-input {
-        position: relative;
-        top: 0;
-        margin-top: 25px;
-    }
-    .services__details__calculator__item {
-        margin-bottom: 30px;
-    }
-    .blog__hero__text h2 {
-        font-size: 30px;
-    }
-    .blog__hero__text ul li {
-        margin-right: 10px;
-    }
-    .blog__details__slider.owl-carousel .owl-nav button {
-        left: 30px;
-    }
-    .blog__details__slider.owl-carousel .owl-nav button.owl-next {
-        left: auto;
-        right: 30px;
-    }
-    .blog__details__comment__item.reply__item {
-        padding-left: 10%;
-    }
-    .blog__details__comment__item__img {
-        float: none;
-        margin-bottom: 15px;
-    }
-    .blog__details__comment__item__text {
-        padding-left: 0;
-    }
-    .blog__details__comment__item.reply__large .blog__details__comment__item__text:after,
-    .blog__details__comment__item__text:after {
-        display: none;
-    }
-    .blog__details__comment__item__text a {
-        margin-bottom: 10px;
-    }
-    .contact__form__text {
-        padding: 30px;
-    }
-    .search-model-form input {
-        font-size: 24px;
-    }
+.blocks-box,
+.slick-slider {
+    margin: 0;
+    padding: 0!important;
 }
+
+.slick-slide {
+    float: left;
+    padding: 0;
+}
+
+
+
+
+
