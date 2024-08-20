@@ -65,7 +65,7 @@
                     <div class="team__item set-bg" data-setbg="/img/andrew.jpg">
                     </div>
                     <h4>Andrew Makalani</h4>
-                    <p style="color: #88C417;">Founder and Team Leader</p>
+                    <p class="text-uppercase" style="color: #88C417;">Founder and Team Leader</p>
                     <p class="text-justify">
                         The team leader is a qualified and seasoned professional in Animal Science.
                         With expertise in animal production economics, nutrition, forage production science, and
@@ -80,7 +80,7 @@
                     </div>
                     <h4>Lemani Elliot Levi
                     </h4>
-                    <p style="color: #88C417;">Veterinarian</p>
+                    <p class="text-uppercase" style="color: #88C417;">Veterinarian</p>
                     <div class="section-text mt-2 text-justify">
                         <p>
                             Seasoned and qualified veterinarian with twenty years of active practice and experience.
@@ -94,7 +94,7 @@
                     <div class="team__item set-bg" data-setbg="/img/austin.jpg">
                     </div>
                     <h4>Austin Mlowoka</h4>
-                    <p style="color: #88C417;">Animal Husbandry Expert</p>
+                    <p class="text-uppercase" style="color: #88C417;">Animal Husbandry Expert</p>
                     <p class=" text-justify">
                         With a wealth of experience for over twenty-nine years in the field, our Animal Husbandry expert combines passion for animals with scientific knowledge. From managing livestock health to optimizing breeding programs, you are fully covered and in good hands. The keen eye for detail ensures healthy herds, efficient feed management, and sustainable practices. Whether it’s dairy cows, poultry, or exotic species, the guidance will always be invaluable.                    </p>
                 </div>
