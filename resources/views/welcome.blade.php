@@ -10,7 +10,7 @@
 
             @foreach($banners as $key=>$banner)
                 <div class="item item-{{$key+1}}">
-                    <div class="img-fill" style="background-image: url('htpps://pamthuziholdings.net/img/{{$banner->photo}}'); opacity: .8">
+                    <div class="img-fill" style="background-image: url('https://loans.pamthuziholdings.net/img/{{$banner->photo}}'); opacity: .8">
                         <div class="text-content">
                             <h6 >{{$banner->subtitle}}</h6>
                             <h4>{{$banner->title}}</h4>
