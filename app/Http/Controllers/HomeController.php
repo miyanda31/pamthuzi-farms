@@ -12,7 +12,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $banners = Banner::whereSite('Pamthuzi Holdings')->take(5)->latest()->get();
+       $banners = Banner::whereSite('Pamthuzi Livestock')->take(5)->latest()->get();
         return view('welcome',compact('banners'));
     }
 
