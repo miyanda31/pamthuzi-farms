@@ -184,10 +184,8 @@
 <script src="/js/jquery-ui.min.js"></script>
 <script src="/js/jquery.slicknav.js"></script>
 <script src="/js/owl.carousel.min.js"></script>
-<script src="/js/slick.js"></script>
-<script src="/js/owl.js"></script>
-<script src="/js/accordions.js"></script>
 <script src="/js/main.js"></script>
+<script src="/js/slick.js"></script>
 @yield('footer')
 
 
