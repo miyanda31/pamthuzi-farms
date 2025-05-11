@@ -60,11 +60,12 @@
                     </div>
                 </div>
             </div>
+
             <div class="row">
                 <div class="col-lg-4 col-md-6">
-                    <div class="team__item set-bg" data-setbg="/img/andrew.jpg">
+                    <div class="team__item set-bg" data-setbg="/img/makala_andrew.jpg">
                     </div>
-                    <h4>Andrew Makalani</h4>
+                    <h4>Andrew L. Makalani,Ph.D</h4>
                     <p class="text-uppercase" style="color: #88C417;">Founder and Team Leader</p>
                     <p class="text-justify">
                         The team leader is a qualified and seasoned professional in Animal Science.
@@ -73,6 +74,17 @@
                         The team leader's experience spans key positions, from the Ministry of Agriculture to academia,
                         and hands-on involvement in international livestock production technologies.
                         The team leader is poised to deliver with unwavering professionalism and dedication.
+                    </p>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team__item set-bg" data-setbg="/img/madam_makalani.jpg">
+                    </div>
+                    <h4>Charity Kachule Makalani</h4>
+                    <p class="text-uppercase" style="color: #88C417;">CHIEF OPERATIONS OFFICER</p>
+                    <p class="text-justify">
+                        A results-oriented Chief Operations Officer with a strong foundation in Agriculture and Applied Economics. Proven ability to strategically plan, meticulously implement, and rigorously evaluate projects,
+                        driving efficiency and achieving organizational objectives. An innovative and resourceful problem-solver with a proven track record of navigating challenges and adapting to dynamic environments.
+                        Adept at identifying opportunities for improvement and implementing effective solutions that enhance operational performance and resilience.
                     </p>
                 </div>
                 <div class="col-lg-4 col-md-6">
